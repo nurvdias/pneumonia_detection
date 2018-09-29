@@ -24,7 +24,7 @@ the dataset for training and inference and utility functions used within the not
 
 ### Other files ###
 * [proposal.pdf](proposal.pdf) is a report on the exploratory data analysis.
-* [pneumonia_detection_report.pdf](pneumonia_detection_report.pdf) is the report on the pnuemonia
+* [pneumonia_detection_report.pdf](pneumonia_detection_report.pdf) is the report on the pneumonia
 detection problem, solution and model.
 * [detections.csv](detections.csv) contains the outcomes of the detections made on the test dataset.
 The first column is the patient ID. The second column contains a sequence of prediction strings of
